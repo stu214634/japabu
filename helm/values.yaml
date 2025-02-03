@@ -1,5 +1,5 @@
 image:
-  repository: yourusername/boid-sim
+  repository: antonrwagner/boid-sim
   tag: arm64-latest
   pullPolicy: IfNotPresent
 
