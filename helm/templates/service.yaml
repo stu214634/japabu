@@ -7,5 +7,5 @@ spec:
     app: boid-sim
   ports:
     - protocol: TCP
-      port: 80
+      port: 90
       targetPort: 80
