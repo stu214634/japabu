@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: boid-sim
 spec:
-  replicas: 1
+  replicas: 256
   selector:
     matchLabels:
       app: boid-sim
